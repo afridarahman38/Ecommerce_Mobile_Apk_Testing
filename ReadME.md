@@ -2,14 +2,14 @@
 ## Project Description
 This project focuses on automating the testing of the guest checkout feature in an e-commerce mobile application. The primary scenarios covered include a customer adding products to their shopping cart and successfully placing an order as a guest user. The testing is conducted using the Appium framework, a widely-used tool for automating mobile application testing on Android platforms.
 
-Key Features Tested
+## Key Features Tested
 Adding Products to Cart: The automated scripts simulate a customer browsing through the app, selecting products, and adding them to the shopping cart.
 
 Guest Checkout: The scripts emulate the checkout process as a guest user, including entering shipping details, selecting shipping options, providing payment information, and completing the order placement.
 
-Tools and Frameworks Used
+## Tools and Frameworks Used
 Appium: Appium is used as the primary automation framework for testing the e-commerce mobile application on Android devices. It provides support for automating UI interactions and simulating user actions.
-Project Structure
+## Project Structure
 Test Scripts: Contains the automated test scripts written using the Appium framework and programming languages such as Java, Python, or JavaScript.
 
 Test Data: Includes test data such as product information, shipping addresses, and payment details used in the test scenarios.
@@ -18,7 +18,7 @@ Page Objects: Organizes mobile app screens and elements into reusable components
 
 Test Reports: Stores generated test reports, including logs and screenshots, for documentation and analysis.
 
-How to Run Automated Tests
+## How to Run Automated Tests
 Setup Testing Environment: Install and configure the necessary tools and dependencies for mobile automation testing, including Appium server, Android SDK, and required drivers.
 
 Write Test Scripts: Develop automated test scripts using the Appium framework and your preferred programming language, incorporating appropriate assertions and validations for each step of the guest checkout process.
