@@ -1,0 +1,51 @@
+{
+  "version": "1.0",
+  "caps": [
+    {
+      "type": "text",
+      "name": "appium:deviceName",
+      "value": "phone"
+    },
+    {
+      "type": "text",
+      "name": "platformName",
+      "value": "android"
+    },
+    {
+      "type": "text",
+      "name": "appium:automationName",
+      "value": "Uiautomator2"
+    },
+    {
+      "type": "text",
+      "name": "appium:udid",
+      "value": "emulator-5554"
+    }
+  ],
+  "server": {
+    "local": {},
+    "remote": {
+      "path": "",
+      "hostname": "127.0.0.1",
+      "port": "4723"
+    },
+    "sauce": {
+      "dataCenter": "us-west-1"
+    },
+    "headspin": {},
+    "browserstack": {},
+    "lambdatest": {},
+    "advanced": {},
+    "bitbar": {},
+    "kobiton": {},
+    "perfecto": {},
+    "pcloudy": {},
+    "testingbot": {},
+    "experitest": {},
+    "roboticmobi": {},
+    "remotetestkit": {},
+    "mobitru": {}
+  },
+  "serverType": "remote",
+  "visibleProviders": []
+}
